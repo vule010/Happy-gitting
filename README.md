@@ -1,6 +1,8 @@
-# Happy-gitting-
+# Happy-gitting
 
 Just try out the git thing and enjoy gitting!
+
+Hi my name is Vu
 
 Here is a cute dolphin:
 
